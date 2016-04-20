@@ -1,0 +1,10 @@
+PODS:
+  - SVGPlayButton (0.2.3)
+
+DEPENDENCIES:
+  - SVGPlayButton (~> 0.2.3)
+
+SPEC CHECKSUMS:
+  SVGPlayButton: 837de86182782e83bd7ca8927390b17b9a90ca2f
+
+COCOAPODS: 0.39.0
